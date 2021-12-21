@@ -106,4 +106,4 @@ Account Transactions
 
 - Slides
 
-- Wireframe
+- [Figma](https://www.figma.com/file/xJxNRuBDUaEPtNYiPzg8zA/Untitled?node-id=0%3A1)
