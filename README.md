@@ -1,5 +1,7 @@
-# FinalProject
-**TuwaiqPay** : Mobile appleaction let you to create accounts and can send or receive money from another users and create QRCodes with a balance so any one scan the code can send the money 
+## Final Project
+
+**TuwaiqPay** : Application allows you to create account and send/receive money to/from any user in application using NFC or QRCode
+
 ## User Stories
 
 - **Signup:** As an anon I can sign up in the app so that I start send, receive moneys
@@ -95,9 +97,10 @@ Account Transactions
 
 - Trello/Kanban
 
-[Link to your trello board](https://trello.com/b/PBqtkUFX/curasan) or picture of your physical board
+- Git
+  
 
-[Client repository Link](https://github.com/screeeen/project-client)
+[Client repository Link](https://github.com/TheRealBasel/TuwaiqPay-Frontend)
 
 [Server repository Link](https://github.com/TheRealBasel/TuwaiqPay-Backend)
 
